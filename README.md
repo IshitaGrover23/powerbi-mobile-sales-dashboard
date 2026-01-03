@@ -1,10 +1,9 @@
 📊 Mobile Sales Analytics Dashboard (Power BI)
+
 📌 Project Overview
 
 This project presents an interactive Mobile Sales Analytics Dashboard built using Power BI and Power Query.
 It analyzes mobile sales performance across brands, models, cities, time periods, and payment methods to support data-driven business decisions.
-
-
 
 🛠️ Tools Used
 
@@ -13,8 +12,6 @@ It analyzes mobile sales performance across brands, models, cities, time periods
 * Power Query
 
 * Data Visualization & Dashboard Design
-
-
 
 📂 Dataset Summary
 
@@ -30,8 +27,6 @@ Sales transaction data including:
 
 * Customer ratings
 
-
-
 📈 Key KPIs
 
 * Total Sales: 769M+
@@ -44,8 +39,6 @@ Sales transaction data including:
 
 * Customer Rating Distribution
 
-
-
 🔍 Key Insights
 
 * Identified top-performing mobile brands and models driving the highest revenue
@@ -55,8 +48,6 @@ Sales transaction data including:
 * Found that UPI and card payments account for over 50% of transactions, indicating strong digital payment adoption
 
 * Evaluated customer ratings to understand product satisfaction trends
-
-
 
 🎛️ Dashboard Features
 
@@ -69,8 +60,6 @@ Sales transaction data including:
 * Interactive slicers for month, brand, model, payment method, and day
 
 * Clean, business-friendly layout for stakeholders
-
-
 
 🔗 Live Dashboard & Files
 
